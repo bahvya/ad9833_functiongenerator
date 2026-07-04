@@ -12,4 +12,6 @@ hardware used-
 4. buttons for chaing modes and frequency increment per turn of the rotary
 
 
+
+// video link for working demo - https://www.youtube.com/watch?v=coKYl5j4Dm8
 // more doccumentation adding soon
